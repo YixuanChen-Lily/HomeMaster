@@ -1,3 +1,11 @@
+# Update
+- I replaced deprecated components
+- Better uses node 16
+
+```
+nvm use 16
+
+```
 
 
 # Welcome to Home Master
