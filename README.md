@@ -31,20 +31,6 @@ nvm use 16
   <br/>
 Help the company and customers to communicate better, so that customers can get better service, so as to achieve a win-win situation.
 
-
-# Due to Heroku Stop working, the following part will be updated Dec.8
-
-Website Deployed on Heroku : https://desolate-garden-13245.herokuapp.com/
-
-Website : https://desolate-garden-13245.herokuapp.com/
-
-Heroku git repository: https://git.heroku.com/desolate-garden-13245.git
-
-Github original repository: https://github.com/csc309-fall-2021/team30.git
-
-DB_URI=mongodb+srv://team30:team30@cluster0.qkstq.mongodb.net/HomeMasterAPI?retryWrites=true&w=majority
-PORT=5000
-
 <br/>
 
 # Development Setup
@@ -76,7 +62,7 @@ npm intall
 npm start
 ```
 
-You can now visit the page via `localhost:5000`
+You can now visit the page via `localhost:5400`
 
 
 # Features
