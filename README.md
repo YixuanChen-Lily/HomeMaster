@@ -6,6 +6,9 @@
 nvm use 16
 
 ```
+# Team
+
+- This project is done in a group of 4
 
 
 # Welcome to Home Master
